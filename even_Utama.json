@@ -21,7 +21,7 @@
     "tanggal_hijri": 12,
     "warna": "#4CAF50",         
     "konten": [                 
-      { "tipe": "judul",  "teks": "Amalan Maulid Nabi" },
+      { "tipe": "judul",  "teks": "A" },
       { "tipe": "paragraf", "teks": "Perbanyak shalawat..." },
       { "tipe": "doa",    "arab": "اللهم صل على محمد", "latin": "Allahumma...", "arti": "Ya Allah..." }
       ]
