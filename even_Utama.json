@@ -18,7 +18,7 @@
     "id": "qq",
     "judul": "Maulid Nabi SAW",
     "bulan_hijri": 3,
-    "tanggal_hijri": 12,
+    "tanggal_hijri": 15,
     "warna": "#4CAF50",         
     "konten": [                 
       { "tipe": "judul",  "teks": "A" },
