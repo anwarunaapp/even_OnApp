@@ -2,7 +2,7 @@
   {
     "id": "maulid",
     "judul": "Maulid Nabi SAW",
-    "bulan_hijri": 3,
+    "bulan_hijri": 1,
     "tanggal_hijri": 12,
     "warna": "#4CAF50",         
     "konten": [                 
@@ -17,7 +17,7 @@
   {
     "id": "qq",
     "judul": "Maulid Nabi SAW",
-    "bulan_hijri": 3,
+    "bulan_hijri": 1,
     "tanggal_hijri": 12,
     "warna": "#4CAF50",         
     "konten": [                 
