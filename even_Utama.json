@@ -2,14 +2,14 @@
   {
     "id": "maulid",
     "judul": "Maulid Nabi SAW",
-    "bulan_hijri": 1,
+    "bulan_hijri": 3,
     "tanggal_hijri": 12,
     "warna": "#4CAF50",         
     "konten": [                 
       { "tipe": "judul",  "teks": "Amalan Maulid Nabi" },
       { "tipe": "paragraf", "teks": "Perbanyak shalawat..." },
       { "tipe": "doa",    "arab": "اللهم صل على محمد", "latin": "Allahumma...", "arti": "Ya Allah..." },
-      { "tipe": "judul",  "teks": "Amalan Maulid Nabi" },
+      { "tipe": "judul",  "teks": "di sunnahkan Amalan Maulid Nabi" },
       { "tipe": "paragraf", "teks": "Perbanyak shalawat..." },
       { "tipe": "doa",    "arab": "اللهم صل على محمد", "latin": "Allahumma...", "arti": "Ya Allah..." }
     ]
